@@ -1,3 +1,6 @@
+# About This Fork
+This repository is a fork of the [Real-Time Reviews Analysis](https://github.com/abdulrahman-riyad/real-time-reviews-analysis) project, developed collaboratively by a team I was part of.
+
 # Real-Time Customer Reviews Analysis
 Analyzes customer product reviews (scraped in real-time) using Aspect-Based Sentiment Analysis (ABSA) to extract and summarize product pros and cons based on specific features.
 
